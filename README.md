@@ -1,6 +1,6 @@
 <!--
 Profile README for github.com/Anoune1946
-Keep this page focused on research, methods, reproducible code and energy-market applications.
+Research portfolio: mathematical methods, reproducible computation and energy-market applications.
 -->
 
 # Anoune Mergane
@@ -33,7 +33,7 @@ flowchart TD
     B --> F["Nonlinear dynamics · Negative prices · Forecasting"]
     C --> G["Markov chains · Nummelin splitting · Regenerative bootstrap"]
     D --> H["PPA exposure · Risk indicators · Decision support"]
-    E --> I["ENTSO-E · Forecast data · Time alignment · Backtesting"]
+    E --> I["ENTSO-E · Energy-Charts · Open-Meteo · Greenbyte"]
 ```
 
 ### 01 — Electricity Price Modelling
@@ -75,17 +75,24 @@ Some industrial work is conducted in a private environment and is therefore not 
 
 ### 04 — Energy Data Engineering
 
-Building reliable data workflows for European electricity-market analysis and forecasting.
+Building data workflows for European electricity-market analysis, renewable generation and forecasting.
 
 **Public project space**
 
 [Electricity Price Forecasting](https://github.com/Anoune1946/electricity-price-forecasting)
 
-Focus:
-- ENTSO-E market data and forecast collection.
+Data sources and API experience:
+- [ENTSO-E Transparency Platform](https://transparency.entsoe.eu/) — European electricity-market data and forecasts.
+- [Energy-Charts](https://energy-charts.info/) — electricity generation, load and market data through public APIs.
+- [Open-Meteo](https://open-meteo.com/) — weather data and forecast APIs for energy-related modelling.
+- **Greenbyte and other private operational APIs** — renewable-asset production and operational data, handled within the relevant access and confidentiality constraints.
+
+Technical focus:
+- API-based data acquisition, local caching and data validation.
 - Day-Ahead information sets and forecast-origin discipline.
 - Hourly and quarter-hourly time-series alignment.
-- Data validation, chronological backtesting and reproducible pipelines.
+- Weather, market and renewable-generation data integration.
+- Chronological backtesting and reproducible data pipelines.
 
 ---
 
@@ -110,10 +117,19 @@ My academic training combines probability, statistics, stochastic modelling, tim
 
 ---
 
-## Selected scientific presentations
+## Scientific presentations
 
-- **11th Rencontres des Jeunes Statisticien·nes (RJS)** — Porquerolles, 17–21 May 2026.
-- **Chaire Économie du Climat** — research presentation, Palais Brongniart, Paris, 11 September 2026.
+- **Forum Entreprises & Mathématiques (FEM 2026)** — poster presentation, Campus des Cordeliers, Sorbonne Université, Paris, **17 November 2026**.
+- **Chaire Économie du Climat** — research presentation, Palais Brongniart, Paris, **11 September 2026**.
+- **11th Rencontres des Jeunes Statisticien·nes (RJS)** — Porquerolles, **17–21 May 2026**.
+- **Colloque International Francophone de Probabilités et Statistique en Interactions (CIF-PSI)** — research presentation, AIMS Senegal (M’bour) and Université Gaston Berger (Saint-Louis), **8–10 July 2025**.
+
+## Scientific and academic event organisation
+
+- **Doctoral seminars of the Fédération Parisienne de Modélisation Mathématique (FP2M)** — member of the organising team. The seminars bring together early-career researchers from member laboratories, including MAP5, SAMM, MODAL’X and CES, for short talks in applied mathematics, probability, statistics, modelling and networks. [FP2M seminars and events](https://fp2m.math.cnrs.fr/ephemeres.html).
+- **“Non-stationnarité et statistiques pour l’EEG”** — member of the local organising team, Nanterre, **4–5 September 2025**. [Conference website](https://stateeg.sciencesconf.org/).
+
+---
 
 ## Methods & technical skills
 
@@ -125,11 +141,18 @@ My academic training combines probability, statistics, stochastic modelling, tim
 - Extreme-value methods and rare-event analysis.
 - Experimental design and statistical modelling.
 
-**Data science and programming**
+**Data science, machine learning and programming**
 - Python and R.
 - NumPy, pandas, SciPy, scikit-learn and statsmodels.
-- Statistical learning and forecasting.
+- Statistical learning, machine-learning model development and forecasting.
+- Exploration and development of approaches based on foundation models for data and time-series applications.
 - Data processing, visualisation and model evaluation.
+
+**Data engineering and APIs**
+- API integration, data acquisition and local caching.
+- ENTSO-E, Energy-Charts and Open-Meteo.
+- Experience with private operational data APIs, including Greenbyte.
+- Temporal alignment, data-quality checks and reproducible workflows.
 
 **Signal processing**
 - EEG data analysis.
@@ -150,6 +173,7 @@ My academic training combines probability, statistics, stochastic modelling, tim
 - **Chronological evaluation:** distinguish estimation, validation and test periods.
 - **Statistical interpretability:** connect modelling choices to the underlying stochastic and economic questions.
 - **Reproducibility:** document data provenance, assumptions, dependencies, limitations and computational experiments.
+- **Data confidentiality:** keep private API credentials, operational datasets and company-sensitive information out of public repositories.
 
 ---
 
@@ -160,7 +184,8 @@ I am interested in research collaborations and applied quantitative projects in:
 - Stochastic processes and mathematical statistics.
 - Regenerative methods for dependent data.
 - Electricity-market modelling and renewable energy.
-- Statistical forecasting, risk analysis and decision support.
+- Statistical and machine-learning forecasting, including emerging foundation-model approaches.
+- Energy data engineering, risk analysis and decision support.
 
 For professional and research details, see my [LinkedIn profile](https://www.linkedin.com/in/anoune-mergane-740aa3253/).
 
