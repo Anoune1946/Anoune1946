@@ -13,7 +13,7 @@ Keep this page focused on research, methods, reproducible code and energy-market
 
 I am a PhD researcher in applied mathematics at **MODAL’X, Université Paris Nanterre**, working in collaboration with **CGN Europe Energy** through a CIFRE industrial PhD programme.
 
-My doctoral research focuses on the **modelling and forecasting of electricity spot prices using regenerative Markov chains and statistical methods**. I work at the intersection of probability, mathematical statistics, nonlinear time series and energy-market applications.
+My doctoral research, entitled **“Modelling Electricity Spot Prices Using Regenerative Markov Chains and Prediction”**, focuses on the modelling and forecasting of electricity spot prices using regenerative Markov chains and statistical methods. I work at the intersection of probability, mathematical statistics, nonlinear time series and energy-market applications.
 
 My goal is to connect mathematical rigour with reproducible computational methods and decision-relevant questions from the electricity sector.
 
@@ -109,6 +109,11 @@ Focus:
 My academic training combines probability, statistics, stochastic modelling, time series, statistical programming, optimisation, risk analysis and data analysis.
 
 ---
+
+## Selected scientific presentations
+
+- **11th Rencontres des Jeunes Statisticien·nes (RJS)** — Porquerolles, 17–21 May 2026.
+- **Chaire Économie du Climat** — research presentation, Palais Brongniart, Paris, 11 September 2026.
 
 ## Methods & technical skills
 
