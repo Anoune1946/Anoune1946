@@ -134,6 +134,12 @@ Teaching and tutorial activities across several undergraduate programmes:
 
 This experience includes teaching across different student backgrounds, explaining quantitative concepts and supporting students in their mathematical and statistical learning.
 
+**Lecturer / Chargé d’enseignement — 36 hours**
+Institut Supérieur d’Économie et de Management (ISEM), Thiès, Senegal · **2021–2022**
+
+- **Applied Mathematics for Management** — Licence 1, Semester 2.
+- Responsibilities: Full course ownership, including designing lecture notes, exercise sheets, and final exam papers, as well as grading scripts.
+
 ---
 
 ## Education
