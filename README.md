@@ -1,98 +1,89 @@
 <!--
 Profile README for github.com/Anoune1946
-Research portfolio: mathematical methods, reproducible computation and energy-market applications.
+Professional identity: statistical research, methodological development and interdisciplinary applications.
 -->
 
 # Anoune Mergane
 
-**CIFRE PhD Researcher in Applied Mathematics**  
-*Stochastic Modelling · Statistical Inference · Quantitative Energy Research*
+**CIFRE PhD Researcher | Applied Statistics · Statistical Modelling · Inference**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Anoune1946-181717?logo=github)](https://github.com/Anoune1946)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anoune-mergane-740aa3253/)
 
-I am a PhD researcher in applied mathematics at **MODAL’X, Université Paris Nanterre**, working in collaboration with **CGN Europe Energy** through a CIFRE industrial PhD programme.
+I am a researcher in **statistics and applied mathematical modelling**, currently completing a CIFRE PhD at **MODAL’X, Université Paris Nanterre**, in partnership with **CGN Europe Energy**.
 
-My doctoral research, entitled **“Modelling Electricity Spot Prices Using Regenerative Markov Chains and Prediction”**, focuses on the modelling and forecasting of electricity spot prices using regenerative Markov chains and statistical methods. I work at the intersection of probability, mathematical statistics, nonlinear time series and energy-market applications.
+My research is primarily oriented towards **statistical methodology**: statistical modelling, estimation and inference, time-series analysis, resampling methods and computational statistics. My doctoral work uses Markov chains and regenerative methods as mathematical tools to study dependent data and develop statistical procedures.
 
-My goal is to connect mathematical rigour with reproducible computational methods and decision-relevant questions from the electricity sector.
+My research applications include electricity markets, EEG and signal data, and experimental agricultural data. I am interested in transferring statistical methods across scientific fields rather than limiting my work to one application area.
 
 ---
 
-## Research portfolio
+## Research identity
 
-The portfolio is organised around four complementary areas:
+### 1. Core field — Statistics
 
-```mermaid
-flowchart TD
-    A["Applied Mathematics & Statistical Modelling"]
-    A --> B["01 · Electricity Price Modelling"]
-    A --> C["02 · Regenerative Statistics"]
-    A --> D["03 · Energy Risk & Decision Tools"]
-    A --> E["04 · Energy Data Engineering"]
-    B --> F["Nonlinear dynamics · Negative prices · Forecasting"]
-    C --> G["Markov chains · Nummelin splitting · Regenerative bootstrap"]
-    D --> H["PPA exposure · Risk indicators · Decision support"]
-    E --> I["ENTSO-E · Energy-Charts · Open-Meteo · Greenbyte"]
-```
+- Statistical modelling and applied statistical methodology.
+- Estimation, statistical inference and model assessment.
+- Time-series analysis and dependent data.
+- Resampling methods, bootstrap and uncertainty assessment.
+- Statistical computing, numerical experiments and Monte Carlo evaluation.
+- Predictive modelling and quantitative analysis of complex data.
 
-### 01 — Electricity Price Modelling
+### 2. Mathematical methods supporting my research
 
-Research on the nonlinear dynamics of European wholesale electricity prices, with a particular focus on negative-price episodes, market regimes and interpretable statistical forecasting.
+- Markov chains and stochastic processes.
+- Regenerative structures and Nummelin splitting.
+- Regenerative bootstrap and block-based resampling.
+- Nonlinear dynamical models.
+- Extreme-value methods and simulation.
 
-**Current public research repository**
+These are methodological tools within my broader statistical research profile; my main professional identity is **statistics**, not theoretical probability.
+
+### 3. Machine learning and data science
+
+- Development and evaluation of machine-learning models for prediction and data analysis.
+- Nonlinear predictive modelling and feature-based approaches.
+- Ongoing work and exploration involving deep learning and foundation-model approaches for temporal data.
+- Reproducible computational experiments and model evaluation.
+
+---
+
+## Research applications
+
+My statistical work has been applied to different types of scientific and industrial problems:
+
+| Domain | Experience and research questions |
+|---|---|
+| **Energy and electricity markets** | Nonlinear price modelling, negative-price episodes, forecasting and PPA risk analysis in an industrial CIFRE context. |
+| **Neuroscience and EEG** | Statistical analysis of EEG data in linguistics, comparison of participant groups, signal processing and applied-statistics research. |
+| **Agriculture and experimental sciences** | Experimental design, field-trial analysis, measurement of production and quality, and statistical modelling. |
+| **Interdisciplinary data science** | Interest in adapting statistical methods to environmental, climate, industrial, health and engineering data. |
+
+The first three areas correspond to professional or research experience. The last describes fields in which I am interested in developing further collaborations.
+
+---
+
+## Selected research projects
+
+### Electricity price modelling
+
+Research on nonlinear dynamics in European wholesale electricity prices, negative-price episodes and interpretable forecasting.
 
 [Structural Non-Linearity and Negative Electricity Prices](https://github.com/Anoune1946/Structural-Non-Linearity-and-Negative-Electricity-Prices)
 
-Topics include:
-- Smooth-transition nonlinear time-series models.
-- Price dynamics across different supply-demand conditions.
-- Empirical comparison across France, Germany/Luxembourg and Spain.
-- Chronological evaluation, diagnostics and reproducibility.
+### Statistical and computational forecasting
 
-### 02 — Regenerative Statistics
-
-Mathematical and computational methods for dependent stochastic processes, developed as part of my doctoral research.
-
-Research topics:
-- Markov chains and stochastic processes.
-- Nummelin splitting and regeneration.
-- Regenerative bootstrap and block resampling.
-- Statistical inference for dependent observations.
-- Extreme-value analysis and finite-sample Monte Carlo studies.
-
-### 03 — Energy Risk & Decision Tools
-
-Applied quantitative work related to electricity-market risk and renewable-energy assets.
-
-Areas of application:
-- Negative electricity-price monitoring.
-- Power Purchase Agreement (PPA) exposure.
-- Risk indicators for renewable generation.
-- Forecasting tools and human-in-the-loop decision support.
-
-Some industrial work is conducted in a private environment and is therefore not published in this portfolio.
-
-### 04 — Energy Data Engineering
-
-Building data workflows for European electricity-market analysis, renewable generation and forecasting.
-
-**Public project space**
+A project space for time-series forecasting, energy-market data and reproducible statistical workflows.
 
 [Electricity Price Forecasting](https://github.com/Anoune1946/electricity-price-forecasting)
 
-Data sources and API experience:
-- [ENTSO-E Transparency Platform](https://transparency.entsoe.eu/) — European electricity-market data and forecasts.
-- [Energy-Charts](https://energy-charts.info/) — electricity generation, load and market data through public APIs.
-- [Open-Meteo](https://open-meteo.com/) — weather data and forecast APIs for energy-related modelling.
-- **Greenbyte and other private operational APIs** — renewable-asset production and operational data, handled within the relevant access and confidentiality constraints.
+### Regenerative statistics
 
-Technical focus:
-- API-based data acquisition, local caching and data validation.
-- Day-Ahead information sets and forecast-origin discipline.
-- Hourly and quarter-hourly time-series alignment.
-- Weather, market and renewable-generation data integration.
-- Chronological backtesting and reproducible data pipelines.
+Doctoral research on regenerative Markov-chain methods and statistical procedures for dependent observations. Public research code and methodological material will be added when ready for release.
+
+### Energy risk and decision support
+
+Applied work on negative-price monitoring, renewable-energy exposure and PPA-related decision support. Some industrial work remains private and is not included in this public portfolio.
 
 ---
 
@@ -100,20 +91,38 @@ Technical focus:
 
 | Period | Position | Organisation | Main activities |
 |---|---|---|---|
-| **May 2024 – Present** | CIFRE PhD Researcher in Applied Mathematics | **CGN Europe Energy** · In collaboration with Université Paris Nanterre | Statistical modelling and forecasting of electricity prices; quantitative analysis for energy-market applications. |
-| **October 2023 – April 2024** | Data Scientist | **Université Paris Nanterre** | Statistical analysis of EEG data in linguistics; comparison of brain-activity patterns between native and late deaf participants; contribution to applied-statistics research. |
-| **March 2023 – September 2023** | Data Scientist Intern | **Capgemini** | EEG data processing and statistical analysis; signal processing using short-time Fourier transforms (STFT) and wavelets; machine-learning methods and communication of results to project teams. |
-| **April 2021 – September 2021** | Statistical Studies Intern | **CERAAS**, Thiès, Senegal | Design and analysis of agricultural experiments; measurement of crop production and quality; statistical modelling and interpretation of experimental results. |
+| **May 2024 – Present** | CIFRE PhD Researcher | **CGN Europe Energy** · MODAL’X, Université Paris Nanterre | Statistical modelling and forecasting of electricity prices; methodological research and quantitative applications for energy markets. |
+| **October 2023 – April 2024** | Data Scientist | **Université Paris Nanterre** | Statistical analysis of EEG data in linguistics; analysis of differences between native and late deaf participants; contribution to applied-statistics research. |
+| **March 2023 – September 2023** | Data Scientist Intern | **Capgemini** | EEG data processing, statistical analysis, signal processing using STFT and wavelet transforms, machine-learning methods and communication of results to project teams. |
+| **April 2021 – September 2021** | Statistical Studies Intern | **CERAAS**, Thiès, Senegal | Experimental design and field-trial analysis; measurement of agricultural production and quality; statistical modelling and interpretation of results. |
+
+---
+
+## University teaching experience
+
+**Teaching assistant / Vacataire d’enseignement — 64 hours HETD**  
+Université Paris Nanterre · **2023–2026**
+
+Teaching and tutorial activities across several undergraduate programmes:
+
+- **Descriptive Statistics** — Licence 1, UFR SPSE (Psychology and Education Sciences).
+- **Analysis I** — Licence 1, UFR SEGMI (Economics, Management, Mathematics and Computer Science).
+- **General Mathematics** — Licence 1, UFR SITEC (Industrial Systems and Communication Technologies).
+- **Academic tutoring** — Licence 1 and 2 students in SEGMI and Master MEEF students preparing for primary-school teaching, through SUFOM.
+
+This experience includes teaching across different student backgrounds, explaining quantitative concepts and supporting students in their mathematical and statistical learning.
+
+---
 
 ## Education
 
 | Period | Degree | Institution |
 |---|---|---|
-| **2022 – 2023** | Master 2 (M2), **ISÉFAR — Statistical Engineering and Economics of Finance, Insurance and Risk**, Risk Statistics track | **Université Paris Nanterre** |
-| **2019 – 2020** | Master’s degree in **Mathematics and Applications** | **Université de Thiès**, Senegal |
-| **2017 – 2018** | Bachelor’s degree in **Mathematics and Computer Science** | **Université de Thiès**, Senegal |
+| **2022–2023** | Master 2 (M2), **ISÉFAR — Statistical Engineering and Economics of Finance, Insurance and Risk**, Risk Statistics track | **Université Paris Nanterre** |
+| **2019–2020** | Master’s degree in **Mathematics and Applications** | **Université de Thiès**, Senegal |
+| **2017–2018** | Bachelor’s degree in **Mathematics and Computer Science** | **Université de Thiès**, Senegal |
 
-My academic training combines probability, statistics, stochastic modelling, time series, statistical programming, optimisation, risk analysis and data analysis.
+My academic training includes statistical modelling, probability and statistics, stochastic simulation, time series, optimisation, experimental design, programming and data analysis.
 
 ---
 
@@ -122,73 +131,45 @@ My academic training combines probability, statistics, stochastic modelling, tim
 - **Forum Entreprises & Mathématiques (FEM 2026)** — poster presentation, Campus des Cordeliers, Sorbonne Université, Paris, **17 November 2026**.
 - **Chaire Économie du Climat** — research presentation, Palais Brongniart, Paris, **11 September 2026**.
 - **11th Rencontres des Jeunes Statisticien·nes (RJS)** — Porquerolles, **17–21 May 2026**.
-- **Colloque International Francophone de Probabilités et Statistique en Interactions (CIF-PSI)** — research presentation, AIMS Senegal (M’bour) and Université Gaston Berger (Saint-Louis), **8–10 July 2025**.
+- **Colloque International Francophone de Probabilités et Statistique en Interactions (CIF-PSI)** — AIMS Senegal, M’bour, and Université Gaston Berger, Saint-Louis, **8–10 July 2025**.
 
-## Scientific and academic event organisation
+## Scientific organisation and academic service
 
-- **Doctoral seminars of the Fédération Parisienne de Modélisation Mathématique (FP2M)** — member of the organising team. The seminars bring together early-career researchers from member laboratories, including MAP5, SAMM, MODAL’X and CES, for short talks in applied mathematics, probability, statistics, modelling and networks. [FP2M seminars and events](https://fp2m.math.cnrs.fr/ephemeres.html).
+- **Fédération Parisienne de Modélisation Mathématique (FP2M)** — member of the organising team for the doctoral seminars. These seminars bring together early-career researchers from member laboratories, including MAP5, SAMM, MODAL’X and CES, for short talks in applied mathematics, statistics, modelling and related fields. [FP2M seminars](https://fp2m.math.cnrs.fr/ephemeres.html).
 - **“Non-stationnarité et statistiques pour l’EEG”** — member of the local organising team, Nanterre, **4–5 September 2025**. [Conference website](https://stateeg.sciencesconf.org/).
 
 ---
 
-## Methods & technical skills
+## Technical environment
 
-**Mathematics and statistics**
-- Markov chains and stochastic processes.
-- Regenerative methods and bootstrap.
-- Nonlinear time-series modelling.
-- Statistical inference and Monte Carlo simulation.
-- Extreme-value methods and rare-event analysis.
-- Experimental design and statistical modelling.
+**Statistical computing:** Python · R · NumPy · pandas · SciPy · scikit-learn · statsmodels
 
-**Data science, machine learning and programming**
-- Python and R.
-- NumPy, pandas, SciPy, scikit-learn and statsmodels.
-- Statistical learning, machine-learning model development and forecasting.
-- Exploration and development of approaches based on foundation models for data and time-series applications.
-- Data processing, visualisation and model evaluation.
+**Machine learning and modelling:** statistical learning · predictive modelling · nonlinear models · deep-learning and foundation-model approaches under development
 
-**Data engineering and APIs**
-- API integration, data acquisition and local caching.
-- ENTSO-E, Energy-Charts and Open-Meteo.
-- Experience with private operational data APIs, including Greenbyte.
-- Temporal alignment, data-quality checks and reproducible workflows.
+**Data workflows and sources:** ENTSO-E · Energy-Charts · Open-Meteo · Greenbyte and other private operational APIs
 
-**Signal processing**
-- EEG data analysis.
-- Short-time Fourier transform (STFT).
-- Wavelet transforms.
+**Research tools:** Jupyter · Git · LaTeX · Streamlit · scientific visualisation
 
-**Scientific and engineering tools**
-- Jupyter, Git and LaTeX.
-- Streamlit and scientific visualisation tools.
-- Experience with SQL and numerical-computing environments.
+**Signal processing:** EEG analysis · short-time Fourier transform (STFT) · wavelet transforms
+
+Private API credentials, operational datasets and company-confidential information are not published in this portfolio.
 
 ---
 
-## Research principles
+## Research interests and opportunities
 
-- **Information-set discipline:** use only variables available at the declared forecast origin.
-- **Temporal consistency:** preserve the native resolution of market data; do not create artificial quarter-hourly forecasts from hourly observations.
-- **Chronological evaluation:** distinguish estimation, validation and test periods.
-- **Statistical interpretability:** connect modelling choices to the underlying stochastic and economic questions.
-- **Reproducibility:** document data provenance, assumptions, dependencies, limitations and computational experiments.
-- **Data confidentiality:** keep private API credentials, operational datasets and company-sensitive information out of public repositories.
+I am interested in academic and applied research opportunities in:
 
----
+- Applied statistics and statistical methodology.
+- Statistical modelling, estimation and inference.
+- Time series, dependent data and resampling methods.
+- Computational statistics and predictive modelling.
+- Interdisciplinary data science in energy, environment, climate, health, industry and engineering.
 
-## Collaboration and interests
+I am particularly interested in collaborative research settings where statistical methods are developed, evaluated and adapted to answer scientific questions in different application domains.
 
-I am interested in research collaborations and applied quantitative projects in:
-
-- Stochastic processes and mathematical statistics.
-- Regenerative methods for dependent data.
-- Electricity-market modelling and renewable energy.
-- Statistical and machine-learning forecasting, including emerging foundation-model approaches.
-- Energy data engineering, risk analysis and decision support.
-
-For professional and research details, see my [LinkedIn profile](https://www.linkedin.com/in/anoune-mergane-740aa3253/).
+For professional details, see my [LinkedIn profile](https://www.linkedin.com/in/anoune-mergane-740aa3253/).
 
 ---
 
-*Applied mathematics · Reproducible research · Energy-market applications*
+*Statistical research · Methodological development · Interdisciplinary applications*
