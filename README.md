@@ -37,7 +37,7 @@ My research applications include electricity markets, EEG and signal data, and e
 - Nonlinear dynamical models.
 - Extreme-value methods and simulation.
 
-These are methodological tools within my broader statistical research profile; my main professional identity is **statistics**, not theoretical probability.
+These tools provide mathematical foundations for statistical modelling and inference, particularly when observations are temporally dependent.
 
 ### 3. Machine learning and data science
 
