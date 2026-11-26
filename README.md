@@ -18,33 +18,55 @@ My research applications include electricity markets, EEG and signal data, and e
 
 ---
 
-## Research identity
+## Research portfolio
 
-### 1. Core field — Statistics
+My profile is organised around a central discipline — **statistics** — supported by mathematical methods, computational tools and applications in several scientific fields.
 
-- Statistical modelling and applied statistical methodology.
-- Estimation, statistical inference and model assessment.
-- Time-series analysis and dependent data.
-- Resampling methods, bootstrap and uncertainty assessment.
-- Statistical computing, numerical experiments and Monte Carlo evaluation.
-- Predictive modelling and quantitative analysis of complex data.
+```mermaid
+flowchart TD
+    A["STATISTICAL RESEARCH"]
+    A --> B["01 · Statistical Modelling & Inference"]
+    A --> C["02 · Mathematical and Stochastic Methods"]
+    A --> D["03 · Machine Learning & Statistical Computing"]
+    A --> E["04 · Interdisciplinary Applications"]
 
-### 2. Mathematical methods supporting my research
+    B --> B1["Estimation · Time Series · Resampling"]
+    B --> B2["Dependent Data · Uncertainty · Model Assessment"]
 
-- Markov chains and stochastic processes.
-- Regenerative structures and Nummelin splitting.
-- Regenerative bootstrap and block-based resampling.
-- Nonlinear dynamical models.
-- Extreme-value methods and simulation.
+    C --> C1["Markov Chains · Regenerative Methods"]
+    C --> C2["Bootstrap · Simulation · Extreme Values"]
 
-These tools provide mathematical foundations for statistical modelling and inference, particularly when observations are temporally dependent.
+    D --> D1["Predictive Modelling · Python · R"]
+    D --> D2["Deep Learning & Foundation Models"]
 
-### 3. Machine learning and data science
+    E --> E1["Energy · Electricity Markets"]
+    E --> E2["EEG · Neuroscience · Signal Processing"]
+    E --> E3["Agriculture · Experimental Data"]
+    E --> E4["Environment · Climate · Industry"]
+```
 
-- Development and evaluation of machine-learning models for prediction and data analysis.
-- Nonlinear predictive modelling and feature-based approaches.
-- Ongoing work and exploration involving deep learning and foundation-model approaches for temporal data.
-- Reproducible computational experiments and model evaluation.
+### 01 — Statistical Modelling & Inference
+
+My core research area: statistical modelling, estimation, inference, time-series analysis, dependent data, resampling methods, uncertainty assessment and computational statistics.
+
+### 02 — Mathematical and Stochastic Methods
+
+Mathematical tools supporting my statistical research, including Markov chains, stochastic processes, Nummelin splitting, regenerative structures, regenerative bootstrap, simulation and extreme-value methods.
+
+### 03 — Machine Learning & Statistical Computing
+
+Development and evaluation of predictive models, statistical learning methods and computational workflows using Python and R. I also explore deep-learning and foundation-model approaches for temporal and structured data.
+
+### 04 — Interdisciplinary Applications
+
+I apply statistical reasoning to different types of scientific and industrial problems:
+
+- **Energy and electricity markets:** nonlinear price modelling, negative-price episodes, forecasting and PPA risk analysis.
+- **EEG and neuroscience:** statistical analysis of EEG data, group comparisons and signal processing.
+- **Agriculture and experimental sciences:** experimental design, field-trial analysis and statistical modelling.
+- **Other scientific domains:** interest in adapting statistical methods to environmental, climate, health, industrial and engineering data.
+
+The first three areas reflect professional and research experience. The other domains indicate directions for future interdisciplinary collaborations.
 
 ---
 
